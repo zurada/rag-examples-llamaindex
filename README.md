@@ -1,6 +1,6 @@
 # RAG System
 
-System RAG (Retrieval-Augmented Generation) do analizy dokumentów przetargowych (PDF, DOCX) z OCR.
+System RAG (Retrieval-Augmented Generation) do analizy dokumentów (PDF, DOCX) z OCR.
 
 ## Wymagania systemowe (macOS)
 
